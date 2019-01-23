@@ -1,0 +1,36 @@
+Changelog 2219:
+
+Started Chapter One
+Changed all variables to suit mod
+Added easter eggs (Find them all!)
+Added mystery character
+Started work on Chapter Two
+Wrote some of chapter 2
+Ended on a cliffhanger
+Made "The End. For Now" art
+Got a school bg for outside school
+Started keeping a changelog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EASTER EGGS (SPOILERS):
+The End. For Now: When brightened reveals an image of the clubroom
+yuri.chr: Contains a new line of text
+
