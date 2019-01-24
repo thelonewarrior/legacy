@@ -715,7 +715,7 @@ label yuri_selection_ch2:
      mc "FOR ALL WE KNOW THIS IS A REAL FIRE!"
      scene corridor with wipeleft
      show yuri zorder 3 at t11
-     y "I'm coming!"
+     y 1f "I'm coming!"
      mc "YOU NEED TO HURRY UP!"
      y 1y7 "[player]! IF YOU WANT TO GET OUT YOU WILL STAY CALM"
      "She snapped at me. Has she ever snapped at anyone before?"
